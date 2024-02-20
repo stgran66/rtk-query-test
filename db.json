@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "a5b2",
+      "name": "Ralph Walsh"
+    },
+    {
+      "id": "133c",
+      "name": "Ed Denesik"
+    },
+    {
+      "id": "e5ad",
+      "name": "Christopher Daniel"
+    }
+  ],
+  "albums": [
+    {
+      "id": "2d9a",
+      "userId": null,
+      "title": "Recycled Granite Pizza"
+    },
+    {
+      "id": "6e29",
+      "userId": null,
+      "title": "Generic Metal Table"
+    },
+    {
+      "id": "e725",
+      "userId": null,
+      "title": "Bespoke Wooden Pizza"
+    },
+    {
+      "id": "37bc",
+      "userId": null,
+      "title": "Gorgeous Steel Bike"
+    },
+    {
+      "id": "f885",
+      "userId": "a5b2",
+      "title": "Elegant Plastic Hat"
+    },
+    {
+      "id": "f114",
+      "userId": "1",
+      "title": "Generic Bronze Salad"
+    },
+    {
+      "id": "3181",
+      "userId": "133c",
+      "title": "Small Rubber Car"
+    },
+    {
+      "id": "ffb2",
+      "userId": "1",
+      "title": "Bespoke Bronze Table"
+    },
+    {
+      "id": "b0fb",
+      "userId": "a5b2",
+      "title": "Modern Granite Chair"
+    },
+    {
+      "id": "9e7e",
+      "userId": "133c",
+      "title": "Awesome Bronze Hat"
+    },
+    {
+      "id": "239a",
+      "userId": "1",
+      "title": "Generic Wooden Bike"
+    }
+  ],
+  "photos": [
+    {
+      "id": "ea5a",
+      "albumId": "ffb2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=75178"
+    },
+    {
+      "id": "e645",
+      "albumId": "f114",
+      "url": "https://loremflickr.com/150/150/abstract?lock=55668"
+    },
+    {
+      "id": "c0da",
+      "albumId": "f114",
+      "url": "https://loremflickr.com/150/150/abstract?lock=72549"
+    },
+    {
+      "id": "323f",
+      "albumId": "f114",
+      "url": "https://loremflickr.com/150/150/abstract?lock=43716"
+    },
+    {
+      "id": "dc44",
+      "albumId": "f114",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1306"
+    },
+    {
+      "id": "ef6c",
+      "albumId": "f114",
+      "url": "https://loremflickr.com/150/150/abstract?lock=79915"
+    },
+    {
+      "id": "a140",
+      "albumId": "f114",
+      "url": "https://loremflickr.com/150/150/abstract?lock=58134"
+    },
+    {
+      "id": "af90",
+      "albumId": "f114",
+      "url": "https://loremflickr.com/150/150/abstract?lock=14098"
+    },
+    {
+      "id": "bd73",
+      "albumId": "3181",
+      "url": "https://loremflickr.com/150/150/abstract?lock=53744"
+    },
+    {
+      "id": "2b24",
+      "albumId": "3181",
+      "url": "https://loremflickr.com/150/150/abstract?lock=28507"
+    },
+    {
+      "id": "e94b",
+      "albumId": "3181",
+      "url": "https://loremflickr.com/150/150/abstract?lock=34000"
+    },
+    {
+      "id": "0153",
+      "albumId": "3181",
+      "url": "https://loremflickr.com/150/150/abstract?lock=52160"
+    },
+    {
+      "id": "d442",
+      "albumId": "ffb2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=3286"
+    },
+    {
+      "id": "64a5",
+      "albumId": "ffb2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=63317"
+    },
+    {
+      "id": "8e04",
+      "albumId": "ffb2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=36183"
+    },
+    {
+      "id": "1371",
+      "albumId": "239a",
+      "url": "https://loremflickr.com/150/150/abstract?lock=31093"
+    }
+  ]
+}
